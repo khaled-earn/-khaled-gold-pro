@@ -1,5 +1,5 @@
-yfinance==0.2.40
-pandas==2.2.2
-pandas_ta==0.3.14b0
-requests==2.31.0
+yfinance
+pandas
+pandas_ta
+requests
 python-telegram-bot==20.7
